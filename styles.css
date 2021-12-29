@@ -1,0 +1,15 @@
+/*styles for Odin-Recipe Project*/
+
+h1 {
+    text-align: center;
+    color: rgb(30, 77, 116);
+}
+body {
+    background-color:rgb(238, 144, 144);
+}
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 500px;
+   }
