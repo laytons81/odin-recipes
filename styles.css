@@ -2,7 +2,8 @@
 
 h1 {
     text-align: center;
-    color: rgb(30, 77, 116);
+    color: rgb(26, 71, 116);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body {
     background-color:rgb(238, 144, 144);
@@ -12,4 +13,14 @@ img {
     margin-right: auto;
     margin-left: auto;
     width: 500px;
+   }
+
+   .Dishes {
+       margin-top: 25px;
+       margin-left: 100px;
+       background-color: rgb(26, 71, 116);
+       color: white;
+       font-size: 28px;
+       font-family: Verdana, Geneva, Tahoma, sans-serif
+       
    }
