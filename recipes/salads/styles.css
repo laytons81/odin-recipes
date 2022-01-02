@@ -1,0 +1,29 @@
+/*styles for Odin-Recipe Project*/
+
+h1 {
+    text-align: center;
+    color: rgb(26, 71, 116);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color:rgb(202, 194, 194);
+}
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 500px;
+   }
+   .btn-text-center {
+       text-align: center;
+   }
+
+   .Dishes {
+       margin-top: 25px;
+       text-align: center;
+       background-color: rgb(26, 71, 116);
+       color: white;
+       font-size: 28px;
+       font-family: Verdana, Geneva, Tahoma, sans-serif
+       
+   }
